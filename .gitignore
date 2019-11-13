@@ -1,0 +1,4 @@
+simple.json
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
