@@ -30,7 +30,7 @@ resource "google_compute_instance" "webapp" {
     }
   }
 
-  metadata_startup_script = file("scripts/web2.sh")
+  metadata_startup_script = file("scripts/web.sh")
 
 }
 
